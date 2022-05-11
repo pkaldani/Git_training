@@ -1,3 +1,7 @@
 this is comarision lecture
 some text
+<<<<<<< Updated upstream
 adding stash lecture, line 2
+=======
+addtional line stash lecture
+>>>>>>> Stashed changes
