@@ -5,3 +5,4 @@ adding stash lecture, line 2
 =======
 addtional line stash lecture
 >>>>>>> Stashed changes
+This is Stash Lecture, Change for untracked Files in file1.txt
