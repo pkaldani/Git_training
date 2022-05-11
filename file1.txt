@@ -1,2 +1,3 @@
 this is comarision lecture
 some text
+adding stash lecture, line 2
